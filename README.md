@@ -1,5 +1,12 @@
 # P4-DSND
+
+
+
+
 Are you in the age of 26-34? Here are your agemates doing in their Black Friday. 
+
+![Capture](https://user-images.githubusercontent.com/55158582/70375241-8501a180-190c-11ea-8cf4-d276e990257d.PNG)
+
 
 Black friday is one of the creative sales idea in the history. Everyone would be waiting that day to get discounted products. Ecommerce is the most benefited sector by far. Data will show us how its important to check sales and market  that day. Some of this questions will draw better picture, the questions as follow: 
 1-Customers more likely to spend during black firday?top 20. 
