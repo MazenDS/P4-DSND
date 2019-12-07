@@ -3,7 +3,7 @@
 
 
 
-Are you in the age of 26-34? Here are your agemates doing in their Black Friday. 
+Are you in the age of 26-35? Here are your agemates doing in their Black Friday. 
 
 ![Capture](https://user-images.githubusercontent.com/55158582/70375241-8501a180-190c-11ea-8cf4-d276e990257d.PNG)
 
