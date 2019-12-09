@@ -1,5 +1,15 @@
 # P4-DSND
 
+
+Table of Contents
+Installation
+Project Motivation
+File Description
+Results
+Licensing, Authors, and Acknowledgements
+
+
+Installation
 The libraries used:
 Numpy,
 Pandas,
@@ -7,10 +17,15 @@ Seaborn,
 matplotlib,
 sklearn
 
-The motivation for the project is to undersand how black friday affection on costumers and which costumers type get attracted by the marketing of that day.
+The motivation for the project 
+undersand how black friday affection on costumers and which costumers type get attracted by the marketing of that day.
 
+File Description:
+Black friday data used from kaggle to understand how the market goes in that particular day.In the notebook some questions to explain the use of that data. 
 
 Are you in the age of 26-35? Here are your agemates doing in their Black Friday. 
+
+Result:
 
 
 
@@ -28,8 +43,8 @@ Plot to show most sales of items_id.
 4-cities are more active than others? 
 Population and city size affection in the balckfriday. City B got the highest ranking among others. 
 
-DATA:
-used from Kaggle. 
+Licensing, Authors, and Acknowledgements 
+Credit should be going to the Udacity reviwer who was willing to correct the coding portion. I would like thanks Kaggle to provide this data to people. 
 
 
 
