@@ -1,6 +1,6 @@
 # P4-DSND
 
-The libraries used (optional -- how to install)
+The libraries used:
 Numpy
 Pandas
 Seaborn
