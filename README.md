@@ -1,10 +1,10 @@
 # P4-DSND
 
 The libraries used:
-Numpy
-Pandas
-Seaborn
-matplotlib
+Numpy,
+Pandas,
+Seaborn,
+matplotlib,
 sklearn
 
 The motivation for the project is to undersand how black friday affection on costumers and which costumers type get attracted by the marketing of that day.
